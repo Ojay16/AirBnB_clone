@@ -53,7 +53,7 @@ section.filters button:hover {
     text-align: left;
     margin-left: 30px;
 }
-/* display location and amenities options upon hover */
+/* location, amenities options upon hover and Display */
 .popover {
     display: none;
     background-color: #FAFAFA;
